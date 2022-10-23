@@ -1,5 +1,4 @@
-/* GENERAL STYLES */
-
+/* Global styling */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -10,8 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* HEADER */
-
+/* Header styling */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -45,8 +43,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* TEXT STYLES */
-
+/* Font/text styling */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -56,8 +53,7 @@ p {
     font-size: 16px;
 }
 
-/* HERO DIV WITH BACKGROUND IMAGE */
-
+/* Div Hero styling (marketing stock image of meeting room) */
 .hero {
     height: 800px;
     width: 100%;
@@ -67,8 +63,7 @@ p {
     background-position: center;
 }
 
-/* FLOATS */
-
+/* Float styling */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -79,16 +74,14 @@ p {
     margin-left: 25px;
 }
 
-/* MAIN */
-
+/* Main section styling */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* BENEFITS ASIDE */
-
+/* Benefits (right section) styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -116,8 +109,7 @@ main {
     max-width: 150px;
 }
 
-/* SERVICES SECTIONS */
-
+/* Service section styling */
 .service {
     margin-bottom: 20px;
     padding: 50px;
@@ -136,8 +128,7 @@ main {
     font-size: 36px;
 }
 
-/* FOOTER */
-
+/* Footer styling */
 footer {
     padding: 30px;
     clear: both;
