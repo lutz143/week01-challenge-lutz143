@@ -1,5 +1,13 @@
 # Module 1 Challenge: Accessibility
 
+## Developer (Student): Josh Lutz
+
+## Description
+
+* The marketing website provided in this repository is focused on driving accessibility into a website so that all users may experience a clean an consistent experience, irregardless of their limitations. In doing so, this will ensure compliance and drive SEO.
+
+## User Story
+
 * AS A marketing agency
 * I WANT a codebase that follows accessibility standards
 * SO THAT our own site is optimized for search engines
@@ -18,7 +26,7 @@
 * WHEN I view the title element
 * THEN I find a concise, descriptive title
 
-## Assets
+## Assets/License/Credits
 
 * Pending
 
